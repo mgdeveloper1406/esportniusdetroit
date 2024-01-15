@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: basketball
 group: basketball
 
-title: Report: Draymond expected to return Monday vs. Grizzlies
+title: Draymond expected to return Monday vs. Grizzlies
 description: Page description
 imageCover: https://cdn.pixabay.com/photo/2014/09/09/12/46/basketball-440057_1280.jpg
 imagePreview: https://cdn.pixabay.com/photo/2014/09/09/12/46/basketball-440057_1280.jpg
