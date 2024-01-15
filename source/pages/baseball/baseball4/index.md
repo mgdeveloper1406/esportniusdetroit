@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: baseball
 group: baseball
 
-title: 5 Mets prospects who could make an impact in 2024
+title: Five Mets prospects who could make an impact in 2024
 description: Page description
 imageCover: https://cdn.pixabay.com/photo/2015/09/04/00/36/baseball-921459_1280.jpg
 imagePreview: https://cdn.pixabay.com/photo/2015/09/04/00/36/baseball-921459_1280.jpg
