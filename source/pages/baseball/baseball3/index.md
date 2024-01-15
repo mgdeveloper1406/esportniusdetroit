@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: baseball
 group: baseball
 
-title: Bill Madden: Yankees join the desperation trend in baseball with Marcus Stroman signing
+title: Yankees join the desperation trend in baseball with Marcus Stroman signing
 description: Page description
 imageCover: https://cdn.pixabay.com/photo/2016/01/05/15/49/baseball-1122824_1280.jpg
 imagePreview: https://cdn.pixabay.com/photo/2016/01/05/15/49/baseball-1122824_1280.jpg
@@ -13,7 +13,7 @@ keywords:
 - Baseball3
 ---
 
-f there is one common theme to this baseball offseason it is the desperation everywhere for quality starting pitching.
+If there is one common theme to this baseball offseason it is the desperation everywhere for quality starting pitching.
 
 Desperation as in the Dodgers forking over $325 million over 12 years to Yoshinobu Yamamoto who’s never thrown a single pitch in the majors and another $136.5 million over five years to Tyler Glasnow, who’s never thrown over 150 innings. Desperation as in the Mets giving Luis Severino $13 million, the Reds giving $16 million to Frankie Montas, who missed all of last year and is recovering from shoulder surgery, the Red Sox signing Lucas Giolito, who was a mediocre 8-15 with a 4.88 ERA for three teams last year, to a two-year, $38 million contract.
 
