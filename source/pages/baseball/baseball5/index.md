@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: baseball
 group: baseball
 
-title: Everything they touch turns to gold. How the Dodgers help pitchers change their fortunes
+title: How the Dodgers help pitchers change their fortunes
 description: Page description
 imageCover: https://cdn.pixabay.com/photo/2015/02/24/13/37/baseball-647423_1280.jpg
 imagePreview: https://cdn.pixabay.com/photo/2015/02/24/13/37/baseball-647423_1280.jpg
