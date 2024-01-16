@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: nfl
 group: nfl
 
-title: Sporting KC announces schedule and roster for 2024 preseason presented by Children's Mercy Kansas City
+title: Sporting KC announces schedule and roster for 2024 preseason presented by Childrens Mercy Kansas City
 description: Page description
 imageCover: https://cdn.pixabay.com/photo/2012/11/28/11/11/football-67701_1280.jpg
 imagePreview: https://cdn.pixabay.com/photo/2012/11/28/11/11/football-67701_1280.jpg
