@@ -14,6 +14,7 @@ keywords:
 ---
 
 Berry and Almond Butter Smoothie
+
 Ingredients:
 
 1 cup of frozen mixed berries
