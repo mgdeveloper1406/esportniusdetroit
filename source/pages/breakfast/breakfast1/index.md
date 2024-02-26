@@ -22,6 +22,7 @@ Ingredients:
 2 tablespoons of almond butter
 1 cup of unsweetened almond milk
 1 teaspoon of honey (optional)
+
 Directions:
 
 Combine the frozen mixed berries, banana, almond butter, unsweetened almond milk, and honey (if using) in a blender.
